@@ -1,3 +1,4 @@
+Nguyễn Thị Kim Liên_ 1150080024_ 11CNPM1_LAB4
 2. PHIÊN BẢN MÔI TRƯỜNG THỰC HIỆN
 • Phần mềm ảo hóa (Hypervisor): VMware Workstation Pro / Player.
 • Hệ điều hành máy quét (Attacker): Kali Linux (Đã cài đặt sẵn gói nmap phiên bản 7.99).
